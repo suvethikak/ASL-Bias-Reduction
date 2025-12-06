@@ -1,8 +1,8 @@
 # Seeing What the Model Sees: Grad-CAM-Guided Recognition of Static ASL Fingerspelling Before and After Debiasing
 
 ## Team Members
-- **Emily Ramond** (er3294)
-- **Suvethika Kandasamy Mohana** (sk5697)
+- **Emily Ramond** 
+- **Suvethika Kandasamy Mohana**
 
 ## Division of Work
 - Both team members will work together on the baseline model to understand current performance
