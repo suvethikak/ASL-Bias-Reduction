@@ -34,11 +34,9 @@ Compare Grad-CAM explainability and per-group accuracy before vs after debiasing
 
 We expect to see…
 
-Image Classification of ASL both in image and video classifications are relatively successful, thus we expect the accuracy of our model to be quite high 
+> Image Classification of ASL both in image and video classifications are relatively successful, thus we expect the accuracy of our model to be quite high 85%. We expect Grad-CAM to show the truthful hand region of these images. We can compare the Grad-CAM of the baseline model and the adversarial debiased model.
 
-> 85%. We expect Grad-CAM to show the truthful hand region of these images. We can compare the Grad-CAM of the baseline model and the adversarial debiased model.
-
-We hope to identify one or two failures in the model (eg, background leakage, lighting/skin-tone bias, etc) that we can mitigate with a 1-2% accuracy gain. 
+> We hope to identify one or two failures in the model (eg, background leakage, lighting/skin-tone bias, etc) that we can mitigate with a 1-2% accuracy gain. 
 
 Plan: 
 Data
