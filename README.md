@@ -72,3 +72,8 @@ This is a partial re-implementation exploring new methodology within a different
 ## Motivation
 
 We selected these models to explore how established techniques can be applied toward a clear goal: reducing bias in computer vision models for American Sign Language (ASL) detection. By leveraging frameworks such as Grad-CAM for model interpretability and incorporating an adversarial debiasing component, we aim to evaluate whether tools that have proven effective in other domains—particularly natural language processing (NLP)—can also enhance fairness and transparency in visual recognition systems. This approach allows us to not only assess model accuracy but also analyze and mitigate potential biases in learned visual features, adapting well-known strategies to a new and impactful context.
+
+## Instructions
+
+.pth files are available but too large to be uploaded. You must download the data from https://data.mendeley.com/datasets/48dg9vhmyk/2, run the manual labeling cell, run the classifier to update the data, run the baseline and adversarial to achieve same results. 
+
